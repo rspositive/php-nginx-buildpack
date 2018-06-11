@@ -2,7 +2,7 @@
     "STACK": "trusty",
     "LIBDIR": "lib",
     "WEBDIR": "htdocs",
-    "WEB_SERVER": "nginx",
+    "WEB_SERVER": "httpd",
     "PHP_VM": "php",
     "ADMIN_EMAIL": "devops@rspositive.com",
     "HTTPD_STRIP": true,
